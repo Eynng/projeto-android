@@ -33,6 +33,7 @@ a.externo::after {
 }
 
 /* CABEÇA DO SITE */
+/* Atenção ao mudar os comandos */
 
 header {
   background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));

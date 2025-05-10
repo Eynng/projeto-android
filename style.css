@@ -199,14 +199,14 @@ footer {
 }
 
 footer a {
-  color: white;
+  color: rgb(0, 124, 131);
   text-decoration: none;
   font-weight: bolder;
 }
 
 footer a:hover {
   color: var(--cor1);
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* ANCORAS DO SITE */
